@@ -1,0 +1,42 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+.all_box{
+    background-color: darkcyan;
+    width: 400px;
+    padding: 20px;
+    float: left;
+    margin-left: 10px;
+}
+
+.all_box h1{
+    color: azure;
+    text-align: center;
+
+
+}
+.all_box p{
+    padding: 20px;
+    color: azure;
+}
+.all_box img{
+    width: 200px;
+    height: 200px;
+    object-fit: cover;
+    /*border: 5px solid black;*/
+}
+.center{
+    display: block;
+    padding: 20px;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+
+.all_box button{
+    padding: 20px;
+    margin-left: 20px;
+    border-radius: 20px;
+}
